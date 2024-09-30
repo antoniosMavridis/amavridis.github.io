@@ -17,7 +17,7 @@ With a master's degree in Data Science, my journey through academia and the prof
 
 Driven by the endless possibilities of data, I am dedicated to advancing the field through innovative analytics and data-driven solutions that not only meet but exceed the strategic needs of the future."
 
-url                      : https://amavridis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://amavridis.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
